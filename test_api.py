@@ -6,7 +6,7 @@ def test_speech_to_text_api():
     url = "http://127.0.0.1:8000/transcribe"
     
     # change this name to path of the audio file name you have
-    audio_file_path = "audio.mp3" 
+    audio_file_path = r"audio.mp3"
     
     if not os.path.exists(audio_file_path):
         print(f"Error: File '{audio_file_path}' not found. Please upload an audio file and rename it to match.")
