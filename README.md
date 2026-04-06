@@ -38,3 +38,6 @@ python test_api.py
 ### Một vài lưu ý nhỏ cho bạn:
 * Lần chạy đầu tiên, terminal sẽ khựng lại một lúc để tải mô hình Whisper.
 * Nếu máy bạn xử lý audio chậm, mô hình `openai/whisper-tiny` sẽ nhanh hơn (nhưng nhận diện kém chính xác hơn một chút). Nếu máy bạn mạnh, bạn có thể đổi thành `openai/whisper-small`.
+
+https://github.com/user-attachments/assets/694a0413-53a6-4203-903d-335ee0c39a4c
+
